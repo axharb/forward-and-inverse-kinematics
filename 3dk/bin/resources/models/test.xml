@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<skeleton>
+   <root x1="0.1" y1="0.1" z1="0" x2="-0.1" y2="0.1" z2="0.1">
+       <joint1 x="-0.1" y="-0.1" z="0.1">
+         <joint2 x="0.3" y="-0.1" z="0.2">
+           <joint3 x="-0.9" y="-0.2" z="0.3">
+            <joint4 x="0.3" y="-0.6" z="0.1">
+            </joint4>
+           </joint3>
+          </joint2>
+         </joint1>
+         <joint1 x="0.1" y="0.1" z="-0.1">
+         <joint2 x="-0.3" y="0.1" z="-0.2">
+           <joint3 x="0.9" y="0.2" z="-0.3">
+            <joint4 x="-0.3" y="0.6" z="-0.1">
+            </joint4>
+           </joint3>
+          </joint2>
+         </joint1>
+
+   </root>
+</skeleton>

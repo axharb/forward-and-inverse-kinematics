@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Mac/Downloads/Graphics-master 2/lwjgl-release-3.1.1-custom"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-assimp-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-assimp-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-assimp-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-assimp.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-bgfx-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-bgfx-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-bgfx-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-bgfx.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-egl-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-egl-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-egl.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-glfw-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-glfw-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jawt-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jawt-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jawt.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jemalloc-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jemalloc-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jemalloc-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-jemalloc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-lmdb-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-lmdb-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-lmdb-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-lmdb.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nanovg-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nanovg-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nanovg-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nanovg.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nfd-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nfd-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nfd-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nfd.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nuklear-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nuklear-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nuklear-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-nuklear.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-openal-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-openal-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-openal-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opencl-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opencl-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opencl.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengl-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengl-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengles-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengles-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengles-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-opengles.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-par-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-par-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-par-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-par.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-sse-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-sse-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-sse-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-sse.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-stb-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-stb-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-stb-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-tinyfd-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-tinyfd-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-tinyfd-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-tinyfd.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-vulkan-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-vulkan-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-vulkan.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-xxhash-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-xxhash-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-xxhash-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl-xxhash.jar"/>
+	<classpathentry kind="lib" path="/Users/Mac/Downloads/lwjgl-release-3.1.1-custom (1)/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/joml-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/pngj-2.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
